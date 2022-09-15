@@ -1,5 +1,5 @@
-## 👋 Hi! Welcome to my Github profile.
-### My name is Flávia and my nickname is Elle!
+<h1 align="center">👋 Hi, I'm Flávia</h1>
+<h3 align="center">A frontend developer from Brazil</h3>
 
 <img align='right' src=https://user-images.githubusercontent.com/101022170/190000398-4c399f9e-d0de-43cc-94f0-0c65d087f6c1.gif width="230">
 
