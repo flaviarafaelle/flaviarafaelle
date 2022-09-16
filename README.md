@@ -1,5 +1,5 @@
 <h2> :tulip: hi welcome to my github profile </h2>
-<img align='right' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="230">
+<img align='right' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="200">
 
 ```ruby
 name: Flávia Santos
@@ -7,19 +7,20 @@ located in: São Paulo, Brazil
 current job: administrative assistant, transitioning to programming
 
 📚skills
-  i’m currently learning: CSS, JavaScript and Git
+  currently learning: CSS, JavaScript and Git
   languages: HTML, CSS
   tools: Figma
 
-fields of interests:
+👾fields of interests:
   Web Development
   UX/UI Design
 
-estucation:
+📑estucation:
   intro to programming, Minas Programam - august to november, 2022
-  trilha conectar, Rocketseat - june, 2022
+  fundamentar, Rocketseat - july to currently
+  conectar, Rocketseat - june, 2022
 
-on free time:
+🍡on free time:
   scout and illustrator
 
 📫how to reach me:
