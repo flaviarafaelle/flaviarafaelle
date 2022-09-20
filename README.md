@@ -9,13 +9,13 @@ current job: administrative assistant, transitioning to programming
 📚skills
   currently learning: CSS, JavaScript and Git
   languages: HTML, CSS
-  tools: Figma
+  tools: Figma, VS Code
 
 👾fields of interests:
   Web Development
   UX/UI Design
 
-📑estucation:
+📑education:
   intro to programming, Minas Programam - august to november, 2022
   fundamentar, Rocketseat - july to currently
   conectar, Rocketseat - june, 2022
