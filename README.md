@@ -17,8 +17,6 @@ current job: administrative assistant, transitioning to programming
 
 📑education:
   intro to programming, Minas Programam - august to november, 2022
-  fundamentar, Rocketseat - july to currently
-  conectar, Rocketseat - june, 2022
 
 🍡on free time:
   scout and illustrator
