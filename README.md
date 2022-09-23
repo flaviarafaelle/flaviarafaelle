@@ -1,5 +1,8 @@
 <h2> :tulip: hi, welcome to my github profile </h2>
+<!---
 <img align='right' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="200">
+[![flaviarafaelle](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviarafaelle&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
 ```ruby
 name: Flávia Santos
