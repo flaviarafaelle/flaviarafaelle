@@ -1,4 +1,4 @@
-<h2> :tulip: hello world, welcome to my github profile </h2>
+<h2> :tulip: hello world, <br> welcome to my github profile</h2>
 <img align='right' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="200">
 
 ```ruby
