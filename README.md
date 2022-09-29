@@ -29,7 +29,12 @@ current job: administrative assistant, transitioning to programming
 
 [![flaviarafaelle](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviarafaelle&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 <!---
+fixar repositórios
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviarafaelle&repo=portifolio-minas-programam&theme=dracula)](https://github.com/flaviarafaelle/portifolio-minas-programam)
+
 **flaviarafaelle/flaviarafaelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
 
