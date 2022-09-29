@@ -1,4 +1,4 @@
-<h2> :tulip: hi, welcome to my github profile </h2>
+<h2> :tulip: hello world, welcome to my github profile </h2>
 <!---
 <img align='right' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="200">
 [![flaviarafaelle](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviarafaelle&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,7 +10,7 @@ located in: São Paulo, Brazil
 current job: administrative assistant, transitioning to programming
 
 📚skills
-  currently learning: CSS, JavaScript and Git
+  learning: CSS, JavaScript and Git
   languages: HTML, CSS
   tools: Figma, VS Code
 
@@ -32,7 +32,5 @@ current job: administrative assistant, transitioning to programming
 
 <!---
 **flaviarafaelle/flaviarafaelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://devicon.dev/
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 --->
 
