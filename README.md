@@ -25,10 +25,10 @@ current job: administrative assistant, transitioning to programming
 📫how to reach me:
 ```
 <html>
-<img align='left' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="200">
+<img align='right' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="200">
   
 <a href="https://github.com/flaviarafaelle/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviarafaelle&hide=html&layout=compact&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviarafaelle&hide=html&layout=compact&theme=dracula" />
 </a>
 </html>
 
