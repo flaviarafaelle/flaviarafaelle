@@ -1,4 +1,6 @@
-<h2> :tulip: hello world, <br> welcome to my github profile</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBB6F7&center=true&width=435&lines=hello+world!;welcome+to+my+github+profile" alt="Typing SVG" /></a>
+</p>
 
 ```ruby
 name: Flávia Santos
