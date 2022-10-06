@@ -8,9 +8,9 @@ located in: São Paulo, Brazil
 current job: administrative assistant, transitioning to programming
 
 📚skills
-  learning: CSS, JavaScript and Git
-  languages: HTML, CSS
-  tools: Figma, VS Code
+  learning: free software
+  languages: HTML and CSS
+  tools: Figma, Git and VS Code
 
 👾fields of interests:
   Web Development
