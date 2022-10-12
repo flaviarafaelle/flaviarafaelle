@@ -1,6 +1,6 @@
 <html>
 <!--- gatooooo --->
-<img align="right" src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="80">
+<img align="right" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" width="90">
 <!--- hello world --->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBB6F7&center=true&width=435&lines=hello+world!;welcome+to+my+github+profile" alt="Typing SVG" /></a>
