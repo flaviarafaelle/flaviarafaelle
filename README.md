@@ -1,6 +1,10 @@
+<html>
+<!--- gatooooo --->
+<img align="right" src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="80">
+<!--- hello world --->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBB6F7&center=true&width=435&lines=hello+world!;welcome+to+my+github+profile" alt="Typing SVG" /></a>
-</p>
+</html>
 
 ```ruby
 name: Flávia Santos
@@ -25,18 +29,22 @@ current job: administrative assistant, transitioning to programming
 📫how to reach me:
 ```
 <html>
-<img align='right' src=https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Cat%20Face.png?raw=true width="200">
-  
-<a href="https://github.com/flaviarafaelle/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviarafaelle&hide=html&layout=compact&theme=dracula" />
-</a>
-</html>
 
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+<!--- icones --->
+<a href="https://www.instagram.com/desenhaelle/">
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/fl%C3%A1via-santos-259604205/">
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="40" />
+</a>
+
+<a href="https://open.spotify.com/playlist/3e77wEO2wJZ0vnPQJFvnK5">
+  <img align="left" src="https://cdn-icons-png.flaticon.com/512/725/725281.png" width="40" />
+</a>
+
+</html>
 
 <!---
 fixar repositórios
