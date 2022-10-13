@@ -1,5 +1,5 @@
 <html>
-<!--- gatooooo --->
+<!--- pinguim --->
 <img align="right" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" width="90">
 <!--- hello world --->
 <p align="center">
@@ -7,14 +7,14 @@
 </html>
 
 ```ruby
-name: Flávia Santos
+name: Flávia Santos or Elle
 located in: São Paulo, Brazil
 current job: administrative assistant, transitioning to programming
 
 📚skills
-  learning: free software
-  languages: HTML and CSS
-  tools: Figma, Git and VS Code
+  learning: JS
+  languages: HTML, CSS and JS
+  tools: Figma, Git, Node and VS Code
 
 👾fields of interests:
   Web Development
