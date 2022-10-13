@@ -31,7 +31,6 @@ current job: administrative assistant, transitioning to programming
 ```
 <html>
 
-
 <!--- icones --->
 <a href="https://www.instagram.com/desenhaelle/">
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/725/725278.png" width="40" />
@@ -50,6 +49,11 @@ current job: administrative assistant, transitioning to programming
 <!---
 fixar repositórios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flaviarafaelle&repo=portifolio-minas-programam&theme=dracula)](https://github.com/flaviarafaelle/portifolio-minas-programam)
+
+icons
+<a href="https://www.instagram.com/desenhaelle/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:flaviarlimasantos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fl%C3%A1via-santos-259604205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 **flaviarafaelle/flaviarafaelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
