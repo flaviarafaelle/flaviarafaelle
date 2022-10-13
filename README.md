@@ -21,7 +21,8 @@ current job: administrative assistant, transitioning to programming
   UX/UI Design
 
 📑education:
-  intro to programming, Minas Programam - august to november, 2022
+  intro to programming, Minas Programam - august to november, 2022.
+  trilha conectar, Rocketseat - august, 2022.
 
 🍡on free time:
   scout and illustrator
