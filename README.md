@@ -40,7 +40,7 @@ current job: administrative assistant, transitioning to programming
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="40" />
 </a>
 
-<a href="https://open.spotify.com/playlist/3e77wEO2wJZ0vnPQJFvnK5">
+<a href="https://open.spotify.com/playlist/2L8Gm7T2aJvRj1ih03UeKv">
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/725/725281.png" width="40" />
 </a>
 
