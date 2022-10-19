@@ -32,20 +32,19 @@ current job: administrative assistant, transitioning to programming
 
 <html>
   <div align="center">
-    <!--- icons --->
-    <a href="https://www.instagram.com/desenhaelle/">
-      <img src="https://cdn-icons-png.flaticon.com/512/725/725278.png" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/fl%C3%A1via-santos-259604205/">
-      <img src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="40" />
-    </a>
-    <a href="https://open.spotify.com/playlist/2L8Gm7T2aJvRj1ih03UeKv">
-      <img src="https://cdn-icons-png.flaticon.com/512/725/725281.png" width="40" />
-    </a>
     <!--- linguagens --->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviarafaelle&hide=html&layout=compact&theme=dracula">
     <!--- pinguim --->
-    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" width="90">
+    <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" width="130">
+    <a href="https://www.instagram.com/desenhaelle/">
+      <img src="https://cdn-icons-png.flaticon.com/512/725/725278.png" width="40"/>
+    </a>
+    <a href="https://www.linkedin.com/in/fl%C3%A1via-santos-259604205/">
+      <img src="https://cdn-icons-png.flaticon.com/512/725/725337.png" width="40"/>
+    </a>
+    <a href="https://open.spotify.com/playlist/2L8Gm7T2aJvRj1ih03UeKv">
+      <img src="https://cdn-icons-png.flaticon.com/512/725/725281.png" width="40"/>
+    </a>
   </div>
 </html>
 
