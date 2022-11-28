@@ -21,11 +21,10 @@ current job: administrative assistant, transitioning to programming
   UX/UI Design
 
 📑education:
+  analysis and systems development, Descomplica - january, 2023 to june, 2025.
+  oracle next education, Oracle + Alura - january to june, 2023.
   intro to programming, Minas Programam - august to november, 2022.
   trilha conectar, Rocketseat - august, 2022.
-
-🍡on free time:
-  scout and illustrator
 
 📫how to reach me:
 ```
