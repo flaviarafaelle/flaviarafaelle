@@ -19,7 +19,6 @@
 
 <!-- pallete -->
 <p>
-
 <img alt="#40292A" src="assets/40292A.png" width="25" height="25"/><img alt="#A1674B" src="assets/A1674B.png" width="25" height="25"/><img alt="#D5ACA2" src="assets/D5ACA2.png" width="25" height="25"/><img alt="#D8996E" src="assets/D8996E.png" width="25" height="25"/><img alt="#F9F5F5" src="assets/F9F5F5.png" width="25" height="25"/>
 </p>
 
