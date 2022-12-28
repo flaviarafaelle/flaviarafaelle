@@ -1,4 +1,4 @@
-<img align="left" src="assets/me.png" alt="art by @taybeeart" width="35%" />
+<img align="left" src="assets/me.png" alt="art by @taybeeart" width="36%" />
 
 ### 🎓 Student
   Analysis and systems development, Descomplica. 
@@ -24,7 +24,7 @@
 </p>
 
 <!-- languages -->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=flaviarafaelle&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" width="40%">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=flaviarafaelle&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" width="45%">
 
 </div>
 <!---
