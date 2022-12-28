@@ -5,7 +5,8 @@
   <br>Oracle next education, Oracle + Alura.
     
 ### 💻 Interests
- Web Development
+   <br>Front end
+   <br>Back end
    <br>UX/UI Design
 
 <!-- contact -->
