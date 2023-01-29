@@ -31,7 +31,7 @@
 </div>
   
 <div align="center">
-  <a href="https://github.com/dev-alexandre17">
+  <a href="https://github.com/flaviarafaelle">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=flaviarafaelle&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" width="45%">
   <img height="155em" src="https://streak-stats.demolab.com?user=flaviarafaelle&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=F8EFD4&stroke=8C5922&ring=8C5922&border=8C5922&currStreakNum=8C5922&sideNums=8C5922&currStreakLabel=8C5922&sideLabels=8C5922"
 </div>
